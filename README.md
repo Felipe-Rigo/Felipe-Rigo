@@ -25,4 +25,4 @@ Lean Six Sigma & Advanced Process Engineering (Black Belt), PUCPR (in progress)
 B.Sc. in Production Engineering, UCS
 Let's talk
 
-LinkedIn Email
+www.linkedin.com/in/felipe-rigo-vuelma-b83581287
