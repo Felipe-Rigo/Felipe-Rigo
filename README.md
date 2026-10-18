@@ -1,6 +1,5 @@
 <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5dc1b9&height=200&section=header&text=Felipe%20Rigo%20Vuelma&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Production%20Engineer%20%E2%86%92%20Data%20Analyst%20%2F%20Scientist&descSize=18&descAlignY=62"/>
 
-Mostrar Imagem
 
 </div>
 Hi, I'm Felipe 👋
