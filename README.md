@@ -1,5 +1,6 @@
 <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5dc1b9&height=200&section=header&text=Felipe%20Rigo%20Vuelma&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Production%20Engineer%20%E2%86%92%20Data%20Analyst%20%2F%20Scientist&descSize=18&descAlignY=62"/>
 
+Mostrar Imagem
 
 </div>
 Hi, I'm Felipe 👋
@@ -8,9 +9,9 @@ I'm a production engineer who got hooked on the data behind the factory floor. I
 
 I'm now moving into data full-time, and I'm looking for a Data Analyst or Data Scientist role where I can mix Python, SQL and real industrial experience.
 
-What I use
+## What I use
 
-Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
+**Python · SQL · Pandas · Matplotlib · Excel · Git**
 
 Beyond the tools, I bring experience with MES implementation, control charts (SPC) and Lean Six Sigma, so I know where industrial data comes from and how messy it can be.
 
