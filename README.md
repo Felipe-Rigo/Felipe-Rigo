@@ -18,18 +18,19 @@ I'm now moving into data full-time, and **I'm looking for a Data Analyst or Data
 
 Beyond the tools, I bring experience with MES implementation, control charts (SPC) and Lean Six Sigma, so I know where industrial data comes from and how messy it can be.
 
-## Projects
-
-- [**Production waste analysis**](https://github.com/YOUR_USERNAME/REPO_NAME): finding where and why production loses material
-- [**Control charts for ingredient dosing**](https://github.com/YOUR_USERNAME/REPO_NAME): spotting drift in automatic dosing before it becomes a problem
-- [**Daily quality report automation**](https://github.com/YOUR_USERNAME/REPO_NAME): a Python script that replaced a manual spreadsheet routine
-- [**Data Science project (MBA)**](https://github.com/YOUR_USERNAME/REPO_NAME): end-to-end, from raw data to insights
-
 ## Studying
 
-- MBA in Data Science & Analytics, USP *(in progress)*
-- Lean Six Sigma & Advanced Process Engineering (Black Belt), PUCPR *(in progress)*
-- B.Sc. in Production Engineering, UCS
+**- MBA in Data Science & Analytics, USP *(in progress)**
+**- Lean Six Sigma & Advanced Process Engineering (Black Belt), PUCPR *(in progress)**
+**- B.Sc. in Production Engineering, UCS**
+
+**Courses:** 
+
+- Cientista de Dados – EBAC (2025 – 43 h)
+- Formação em Python – Intermediário – UCS TecHub (2025 – 16 h)
+- Python Avançado – UCS TecHub (2025 – 16 h)
+- Introdução à Linguagem Python para Ciência de Dados – UCS TecHub (2025 – 20 h)
+- Banco de Dados: Oracle SQL – UCS TecHub (2025 – 44 h)
 
 ## Let's talk
 
