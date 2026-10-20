@@ -24,7 +24,7 @@ Beyond the tools, I bring experience with MES implementation, control charts (SP
 - Lean Six Sigma & Advanced Process Engineering (Black Belt), PUCPR *(in progress)*
 - B.Sc. in Production Engineering, UCS
 
-**Courses:** 
+## Courses:
 
 - Cientista de Dados – EBAC (2025 – 43 h)
 - Formação em Python – Intermediário – UCS TecHub (2025 – 16 h)
