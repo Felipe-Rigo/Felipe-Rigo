@@ -20,9 +20,9 @@ Beyond the tools, I bring experience with MES implementation, control charts (SP
 
 ## Studying
 
-**- MBA in Data Science & Analytics, USP *(in progress)**
-**- Lean Six Sigma & Advanced Process Engineering (Black Belt), PUCPR *(in progress)**
-**- B.Sc. in Production Engineering, UCS**
+- MBA in Data Science & Analytics, USP *(in progress)*
+- Lean Six Sigma & Advanced Process Engineering (Black Belt), PUCPR *(in progress)*
+- B.Sc. in Production Engineering, UCS
 
 **Courses:** 
 
